@@ -74,16 +74,6 @@
 
 </div>
 
-### 📦 Other Notable Projects
-
-- **[LearnSpace](https://learnspace3.vercel.app/)** — Web-based learning management system (JS, HTML, CSS)
-- **[CalculaX](https://github.com/UnknownCoder56/CalculaX)** — Polished VB.NET calculator with a clean UI
-- **[ATM-Portal](https://github.com/UnknownCoder56/ATM-Portal)** — Full ATM management system built in C#
-- **[JavaSLC](https://github.com/UnknownCoder56/JavaSLC)** — Java API wrapper for the SLChat platform
-- **[LSFU](https://github.com/UnknownCoder56/LSFU)** — Local Storage File Utility library (C#)
-- **[QuickScript](https://github.com/UnknownCoder56/QuickScript)** — Linux shell script manager built in Java
-- **[ModBot](https://github.com/UnknownCoder56/ModBot)** — Discord moderation bot (Java/JDA)
-- **[pizza-shop-application-vb.net](https://github.com/UnknownCoder56/pizza-shop-application-vb.net)** — Pizza Shop POS system (VB.NET)
 
 ## 🛠️ Technology Stack
 
