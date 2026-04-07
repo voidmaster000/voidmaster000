@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arpan Chatterjee</h1>
-<h3 align="center">Full-Stack Developer | Multi-Language Enthusiast | Open Source Contributor</h3>
+<h3 align="center">Full-Stack Developer | I build things that ship — mobile apps, desktop tools & bots</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=unknowncoder56&label=Profile%20views&color=0e75b6&style=flat" alt="unknowncoder56" />
@@ -8,11 +8,10 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on **SFS GAMING BP** (Private) - [Play Store](https://play.google.com/store/apps/details?id=sfs.gamingbp) | [App Store](https://apps.apple.com/in/app/sfs-gaming-bp/id6747316069)
-- 🌱 Passionate about building applications across **Mobile, Web, Desktop & Systems**
-- 💼 Experience with **15+ public repositories** covering diverse technologies
-- 🎯 Specialized in **Java, C#, JavaScript, Python, and .NET**
-- 💬 Ask me about **Java, C#, JS, Python, HTML, CSS, .NET, C++, C, Android Development**
+- 🚀 **SFS GAMING BP** is live on both [Play Store](https://play.google.com/store/apps/details?id=sfs.gamingbp) and [App Store](https://apps.apple.com/in/app/sfs-gaming-bp/id6747316069) — a real cross-platform mobile app used by a gaming community
+- 🛠️ I build across the stack: **mobile apps, desktop software, web services & Discord bots**
+- 🎯 Core stack: **Java, C#, TypeScript, Python** — I pick the right tool, not the trendy one
+- 💬 Ask me about **Java, C#, JS/TS, Python, Android, .NET, C/C++**
 - 📫 Reach me at **arpanchatterjee1647@gmail.com**
 
 <h2>🚀 Featured Projects</h2>
@@ -21,91 +20,60 @@
 
 <div style="flex:1 1 48%; border:1px solid #30363d; border-radius:8px; padding:14px;">
 <h3>📱 <a href="https://play.google.com/store/apps/details?id=sfs.gamingbp">SFS GAMING BP</a></h3>
-<b>Mobile Game Community Platform</b>
+<b>Blueprint-sharing platform for the Spaceflight Simulator community — live on iOS & Android</b>
 <ul>
+<li><b>Problem:</b> The SFS community had no dedicated mobile hub for sharing and discovering spacecraft blueprints</li>
+<li><b>Solution:</b> A full cross-platform mobile app with instant search (Algolia), real-time data (Firebase), and ads monetization (AdMob)</li>
 <li><b>Tech Stack:</b> Expo, React Native, TypeScript, Firebase, AdMob, Algolia</li>
-<li><b>Last Updated:</b> December 2025</li>
-<li><a href="https://play.google.com/store/apps/details?id=sfs.gamingbp">Play Store</a> | <a href="https://apps.apple.com/in/app/sfs-gaming-bp/id6747316069">App Store</a></li>
-<li>Cross-platform mobile app for gaming community</li>
-</ul>
-</div>
-
-<div style="flex:1 1 48%; border:1px solid #30363d; border-radius:8px; padding:14px;">
-<h3>🤖 <a href="https://github.com/UnknownCoder56/maxis">Maxis</a></h3>
-<b>Discord Bot with Advanced Features</b>
-<ul>
-<li><b>License:</b> MIT</li>
-<li><b>Tech Stack:</b> discord.py, Flask, BeautifulSoup, MongoDB, ExchangeRate-API</li>
-<li><b>Last Updated:</b> January 2026</li>
-<li>A feature-rich Discord bot built with Python</li>
+<li>📥 <a href="https://play.google.com/store/apps/details?id=sfs.gamingbp">Play Store</a> | <a href="https://apps.apple.com/in/app/sfs-gaming-bp/id6747316069">App Store</a> — <i>actually shipped and downloadable</i></li>
 </ul>
 </div>
 
 <div style="flex:1 1 48%; border:1px solid #30363d; border-radius:8px; padding:14px;">
 <h3>🌐 <a href="https://github.com/UnknownCoder56/navixbrowser">Navix</a></h3>
-<b>Custom PC Browser</b>
+<b>A lightweight desktop web browser built from scratch in Java</b>
 <ul>
-<li><b>License:</b> MIT</li>
-<li><b>Tech Stack:</b> JavaCEF, Swing, Google Safe Browsing</li>
-<li><b>Last Updated:</b> August 2025</li>
-<li>Custom desktop web browser application</li>
-</ul>
-</div>
-
-<div style="flex:1 1 48%; border:1px solid #30363d; border-radius:8px; padding:14px;">
-<h3>💻 <a href="https://github.com/UnknownCoder56/TrixOS">TrixOS</a></h3>
-<b>Operating System in QB64</b>
-<ul>
-<li><b>Tech Stack:</b> QB64 (QBasic for x64)</li>
-<li><b>Last Updated:</b> December 2025</li>
-<li>An experimental OS project</li>
-</ul>
-</div>
-
-<div style="flex:1 1 48%; border:1px solid #30363d; border-radius:8px; padding:14px;">
-<h3>🎓 <a href="https://learnspace3.vercel.app/">LearnSpace</a></h3>
-<b>Educational Learning Platform</b>
-<ul>
-<li><b>License:</b> MIT</li>
-<li><b>Tech Stack:</b> JavaScript, HTML, CSS, Render</li>
-<li>Web-based learning management system</li>
-</ul>
-</div>
-
-<div style="flex:1 1 48%; border:1px solid #30363d; border-radius:8px; padding:14px;">
-<h3>🌌 <a href="https://github.com/UnknownCoder56/ConstellaX">ConstellaX</a></h3>
-<b>Constellation Drawing Application</b>
-<ul>
-<li><b>License:</b> MIT</li>
-<li><b>Tech Stack:</b> Java, Swing</li>
-<li><b>Last Updated:</b> December 2025</li>
-<li>Record real constellations or draw your own</li>
+<li><b>Problem:</b> Most custom browser projects stop at "it renders a page" — Navix goes further</li>
+<li><b>Solution:</b> Full Chromium-backed desktop browser with custom UI, tabbed navigation, Google Safe Browsing protection, and a privacy-focused feature set</li>
+<li><b>Tech Stack:</b> JavaCEF (Chromium Embedded Framework), Java Swing, Google Safe Browsing API</li>
+<li><b>License:</b> MIT | <b>Last Updated:</b> August 2025</li>
 </ul>
 </div>
 
 <div style="flex:1 1 48%; border:1px solid #30363d; border-radius:8px; padding:14px;">
 <h3>🎵 <a href="https://github.com/UnknownCoder56/musemix">Musemix</a></h3>
-<b>Music Player and Composer</b>
+<b>A cross-platform desktop MIDI composer and music player — not just a media player</b>
 <ul>
-<li><b>License:</b> MIT</li>
-<li><b>Tech Stack:</b> JavaFX, GraalVM, Gluon, Gson</li>
-<li><b>Last Updated:</b> February 2026</li>
-<li>Cross-platform performant music player and composer built with JavaFX</li>
+<li><b>Problem:</b> Most MIDI tools are either too complex (DAWs) or too basic (simple players)</li>
+<li><b>Solution:</b> A clean desktop app for composing, editing, and playing MIDI tracks with real-time visualization, compiled natively with GraalVM for fast startup</li>
+<li><b>Tech Stack:</b> JavaFX, GraalVM, Gluon (native packaging), Gson</li>
+<li><b>License:</b> MIT | <b>Last Updated:</b> February 2026</li>
+</ul>
+</div>
+
+<div style="flex:1 1 48%; border:1px solid #30363d; border-radius:8px; padding:14px;">
+<h3>🤖 <a href="https://github.com/UnknownCoder56/maxis">Maxis</a></h3>
+<b>A Python Discord bot with a web dashboard, live data feeds, and persistent storage</b>
+<ul>
+<li><b>Problem:</b> Generic bots do moderation. Maxis is built around live data and server utility</li>
+<li><b>Solution:</b> Feature set includes real-time currency conversion (ExchangeRate-API), web scraping (BeautifulSoup), a Flask-powered web dashboard, and MongoDB for persistent guild data</li>
+<li><b>Tech Stack:</b> discord.py, Flask, BeautifulSoup, MongoDB, ExchangeRate-API</li>
+<li><b>License:</b> MIT | <b>Last Updated:</b> January 2026</li>
+</ul>
+<div style="flex:1 1 48%; border:1px solid #30363d; border-radius:8px; padding:14px;">
+<h3>🌌 <a href="https://github.com/UnknownCoder56/ConstellaX">ConstellaX</a></h3>
+<b>An interactive desktop app for drawing, saving, and exporting custom star constellations</b>
+<ul>
+<li><b>Problem:</b> No simple, standalone tool lets you freely map and design your own constellation patterns</li>
+<li><b>Solution:</b> A canvas-based app with a pen-up/down drawing model, color customization, custom <code>.cnst</code> save format, JPG export, and sound effects — all without needing the internet</li>
+<li><b>Key Features:</b> Place stars by clicking, connect them with pen-down mode, toggle line visibility, undo/clear, save/load <code>.cnst</code> files, export as JPG, audio feedback on star placement</li>
+<li><b>Tech Stack:</b> Java 17, Swing, Maven</li>
+<li><b>License:</b> MIT | <b>Last Updated:</b> December 2025</li>
 </ul>
 </div>
 
 </div>
 
-### 📦 Other Notable Projects
-
-- **[CalculaX](https://github.com/UnknownCoder56/CalculaX)** - Beautiful VB.NET calculator application
-- **[pizza-shop-application-vb.net](https://github.com/UnknownCoder56/pizza-shop-application-vb.net)** - Pizza Shop POS system (VB.NET)
-- **[UnknownBot-old-JDA-version](https://github.com/UnknownCoder56/UnknownBot-old-JDA-version)** - Legacy Discord Bot (Java)
-- **[ATM-Portal](https://github.com/UnknownCoder56/ATM-Portal)** - ATM Management System (C#)
-- **[JavaSLC](https://github.com/UnknownCoder56/JavaSLC)** - Java API wrapper for SLChat
-- **[LSFU](https://github.com/UnknownCoder56/LSFU)** - Local Storage File Utility (C#)
-- **[QuickScript](https://github.com/UnknownCoder56/QuickScript)** - Linux script manager (Java)
-- **[ModBot](https://github.com/UnknownCoder56/ModBot)** - Discord moderation bot (Java)
 
 ## 🛠️ Technology Stack
 
@@ -256,7 +224,7 @@
 ---
 
 <p align="center">
-  <i>⚡ Fun fact: I've built projects in 8+ programming languages, from low-level C to high-level Python!</i>
+  <i>⚡ Fun fact: I've shipped a mobile app to both the Play Store and App Store, built a browser from scratch, and mapped the night sky — all in different languages. Still not sure which one counts as "the main project."</i>
 </p>
 
 <p align="center">
