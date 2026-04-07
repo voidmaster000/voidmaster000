@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arpan Chatterjee</h1>
-<h3 align="center">Full-Stack Developer | I build things that ship — mobile apps, desktop tools, bots & the occasional OS</h3>
+<h3 align="center">Full-Stack Developer | I build things that ship — mobile apps, desktop tools & bots</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=unknowncoder56&label=Profile%20views&color=0e75b6&style=flat" alt="unknowncoder56" />
@@ -9,7 +9,7 @@
 ## 👨‍💻 About Me
 
 - 🚀 **SFS GAMING BP** is live on both [Play Store](https://play.google.com/store/apps/details?id=sfs.gamingbp) and [App Store](https://apps.apple.com/in/app/sfs-gaming-bp/id6747316069) — a real cross-platform mobile app used by a gaming community
-- 🛠️ I build across the stack: **mobile apps, desktop software, web services, Discord bots, and yes — an OS**
+- 🛠️ I build across the stack: **mobile apps, desktop software, web services & Discord bots**
 - 🎯 Core stack: **Java, C#, TypeScript, Python** — I pick the right tool, not the trendy one
 - 💬 Ask me about **Java, C#, JS/TS, Python, Android, .NET, C/C++**
 - 📫 Reach me at **arpanchatterjee1647@gmail.com**
@@ -60,14 +60,22 @@
 <li><b>Tech Stack:</b> discord.py, Flask, BeautifulSoup, MongoDB, ExchangeRate-API</li>
 <li><b>License:</b> MIT | <b>Last Updated:</b> January 2026</li>
 </ul>
+<div style="flex:1 1 48%; border:1px solid #30363d; border-radius:8px; padding:14px;">
+<h3>🌌 <a href="https://github.com/UnknownCoder56/ConstellaX">ConstellaX</a></h3>
+<b>An interactive desktop app for drawing, saving, and exporting custom star constellations</b>
+<ul>
+<li><b>Problem:</b> No simple, standalone tool lets you freely map and design your own constellation patterns</li>
+<li><b>Solution:</b> A canvas-based app with a pen-up/down drawing model, color customization, custom <code>.cnst</code> save format, JPG export, and sound effects — all without needing the internet</li>
+<li><b>Key Features:</b> Place stars by clicking, connect them with pen-down mode, toggle line visibility, undo/clear, save/load <code>.cnst</code> files, export as JPG, audio feedback on star placement</li>
+<li><b>Tech Stack:</b> Java 17, Swing, Maven</li>
+<li><b>License:</b> MIT | <b>Last Updated:</b> December 2025</li>
+</ul>
 </div>
 
 </div>
 
 ### 📦 Other Notable Projects
 
-- **[TrixOS](https://github.com/UnknownCoder56/TrixOS)** — An OS-like environment written in QB64; a deep dive into systems-level programming without reaching for C *(experimental)*
-- **[ConstellaX](https://github.com/UnknownCoder56/ConstellaX)** — Java/Swing desktop app to map real constellations or draw your own star patterns
 - **[LearnSpace](https://learnspace3.vercel.app/)** — Web-based learning management system (JS, HTML, CSS)
 - **[CalculaX](https://github.com/UnknownCoder56/CalculaX)** — Polished VB.NET calculator with a clean UI
 - **[ATM-Portal](https://github.com/UnknownCoder56/ATM-Portal)** — Full ATM management system built in C#
@@ -226,7 +234,7 @@
 ---
 
 <p align="center">
-  <i>⚡ Fun fact: I've shipped a mobile app to both the Play Store and App Store, built a browser from scratch, and written an OS — all in different languages. Still not sure which one counts as "the main project."</i>
+  <i>⚡ Fun fact: I've shipped a mobile app to both the Play Store and App Store, built a browser from scratch, and mapped the night sky — all in different languages. Still not sure which one counts as "the main project."</i>
 </p>
 
 <p align="center">
