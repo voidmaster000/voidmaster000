@@ -89,7 +89,7 @@
 </p>
 
 ### Web Development
-<p align="left">
+<p align="left" style="width: 100%">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
@@ -111,7 +111,7 @@
 </p>
 
 ### Mobile Development
-<p align="left">
+<p align="left" style="width: 100%">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   </a>
@@ -124,7 +124,7 @@
 </p>
 
 ### Backend & Databases
-<p align="left">
+<p align="left" style="width: 100%">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
@@ -137,7 +137,7 @@
 </p>
 
 ### Frameworks & Tools
-<p align="left">
+<p align="left" style="width: 100%">
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
   </a>
@@ -156,7 +156,7 @@
 </p>
 
 ### DevOps & Cloud
-<p align="left">
+<p align="left" style="width: 100%">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
@@ -178,7 +178,7 @@
 </p>
 
 ### Other Tools
-<p align="left">
+<p align="left" style="width: 100%">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
   </a>
@@ -198,7 +198,7 @@
 
 ## 🤝 Connect with me
 
-<p align="left">
+<p align="left" style="width: 100%">
   <a href="https://twitter.com/@56unknownpro" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="@56unknownpro" height="30" width="40" />
   </a>
