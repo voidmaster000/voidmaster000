@@ -60,6 +60,7 @@
 <li><b>Tech Stack:</b> discord.py, Flask, BeautifulSoup, MongoDB, ExchangeRate-API</li>
 <li><b>License:</b> MIT | <b>Last Updated:</b> January 2026</li>
 </ul>
+</div>
 <div style="flex:1 1 48%; border:1px solid #30363d; border-radius:8px; padding:14px;">
 <h3>🌌 <a href="https://github.com/UnknownCoder56/ConstellaX">ConstellaX</a></h3>
 <b>An interactive desktop app for drawing, saving, and exporting custom star constellations</b>
