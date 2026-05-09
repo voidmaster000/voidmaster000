@@ -100,61 +100,61 @@
 </p>
 
 ### Mobile Development
-<p align="left">
+<p align="left" style="white-space: nowrap;">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>&nbsp;
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>&nbsp;
   <a href="https://expo.dev" target="_blank" rel="noreferrer"><img src="https://expo.dev/static/brand/app-icon-512x512.png" alt="expo" width="40" height="40"/></a>
 </p>
 
 ### Backend & Databases
-<p align="left">
+<p align="left" style="white-space: nowrap;">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
+  </a>&nbsp;
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
+  </a>&nbsp;
   <a href="https://realm.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/>
   </a>
 </p>
 
 ### Frameworks & Tools
-<p align="left">
+<p align="left" style="white-space: nowrap;">
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-  </a>
+  </a>&nbsp;
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-  </a>
+  </a>&nbsp;
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img src="https://flask.palletsprojects.com/en/stable/_static/flask-icon.svg" alt="flask" width="40" height="40"/>
-  </a>
+  </a>&nbsp;
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
+  </a>&nbsp;
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
   </a>
 </p>
 
 ### DevOps & Cloud
-<p align="left">
+<p align="left" style="white-space: nowrap;">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
+  </a>&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
+  </a>&nbsp;
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  </a>
+  </a>&nbsp;
   <a href="https://heroku.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
-  </a>
+  </a>&nbsp;
   <a href="https://vercel.com" target="_blank" rel="noreferrer">
     <img src="https://vercel.com/favicon.ico" alt="vercel" width="40" height="40"/>
-  </a>
+  </a>&nbsp;
   <a href="https://render.com" target="_blank" rel="noreferrer">
     <img src="https://render.com/icon.svg" alt="render" width="40" height="40"/>
   </a>
