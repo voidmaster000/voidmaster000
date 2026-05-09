@@ -100,14 +100,17 @@
 </p>
 
 ### Mobile Development
-<p align="left" style="white-space: nowrap;">
+<p align="left">
+  <nobr>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>&nbsp;
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>&nbsp;
   <a href="https://expo.dev" target="_blank" rel="noreferrer"><img src="https://expo.dev/static/brand/app-icon-512x512.png" alt="expo" width="40" height="40"/></a>
+  </nobr>
 </p>
 
 ### Backend & Databases
-<p align="left" style="white-space: nowrap;">
+<p align="left">
+  <nobr>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>&nbsp;
@@ -117,10 +120,12 @@
   <a href="https://realm.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/>
   </a>
+  </nobr>
 </p>
 
 ### Frameworks & Tools
-<p align="left" style="white-space: nowrap;">
+<p align="left">
+  <nobr>
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
   </a>&nbsp;
@@ -136,10 +141,12 @@
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
   </a>
+  </nobr>
 </p>
 
 ### DevOps & Cloud
-<p align="left" style="white-space: nowrap;">
+<p align="left">
+  <nobr>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>&nbsp;
@@ -158,6 +165,7 @@
   <a href="https://render.com" target="_blank" rel="noreferrer">
     <img src="https://render.com/icon.svg" alt="render" width="40" height="40"/>
   </a>
+  </nobr>
 </p>
 
 ### Other Tools
