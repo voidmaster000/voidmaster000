@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-- 🚀 **SFS GAMING BP** is live on both [Play Store](https://play.google.com/store/apps/details?id=sfs.gamingbp) and [App Store](https://apps.apple.com/in/app/sfs-gaming-bp/id6747316069) — a real cross-platform mobile app used by a gaming community
+- 🚀 **SFS GAMING BP** is live on both [Play Store](https://play.google.com/store/apps/details?id=sfs.gamingbp) and [App Store](https://apps.apple.com/in/app/sfs-gaming-bp/id6747316069) — a cross-platform mobile app used by the SFS gaming community
 - 🛠️ I build across the stack: **mobile apps, desktop software, web services & Discord bots**
 - 🎯 Core stack: **Java, C#, TypeScript, Python** — I pick the right tool, not the trendy one
 - 💬 Ask me about **Java, C#, JS/TS, Python, Android, .NET, C/C++**
